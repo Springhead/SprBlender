@@ -1,0 +1,1900 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scene",
+				"scene_handler"
+			],
+			[
+				"att_visu",
+				"att_visual_level"
+			],
+			[
+				"get_traje",
+				"get_trajectory_pos  (function)"
+			],
+			[
+				"ik",
+				"ikeff_handlers  (variable)"
+			],
+			[
+				"depende",
+				"dependency  (variable)"
+			],
+			[
+				"depen",
+				"dependency_changed"
+			],
+			[
+				"get_b",
+				"get_bpy_object"
+			],
+			[
+				"bpy_o",
+				"bpy_object_exists"
+			],
+			[
+				"spr_ik_ori_contr",
+				"spr_ik_ori_control_mode"
+			],
+			[
+				"vtxSh",
+				"vtxShaderSrc"
+			],
+			[
+				"ファイルに出力",
+				"ファイルに出力する"
+			],
+			[
+				"not_re",
+				"not_reviewing_s"
+			],
+			[
+				"bt",
+				"btn-sm"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scripts/modules/spb/spbapi.py",
+			"settings":
+			{
+				"buffer_size": 5750,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/modules/spb/handlers_imp/crbone.py",
+			"settings":
+			{
+				"buffer_size": 5576,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/modules/spb/ai/ai_sample.py",
+			"settings":
+			{
+				"buffer_size": 5874,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/modules/spb/handlers.py",
+			"settings":
+			{
+				"buffer_size": 13807,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/modules/spb/ai/ai.py",
+			"settings":
+			{
+				"buffer_size": 13308,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/modules/spb/ai/touchcontroller.py",
+			"settings":
+			{
+				"buffer_size": 3564,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/modules/spb/ai/reachcontroller.py",
+			"settings":
+			{
+				"buffer_size": 1623,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/modules/spb/ai/perception.py",
+			"settings":
+			{
+				"buffer_size": 7128,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/modules/spb/utils.py",
+			"settings":
+			{
+				"buffer_size": 25661,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/modules/spb/handlers_imp/scene.py",
+			"settings":
+			{
+				"buffer_size": 12502,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/modules/spb/handlers_imp/solid.py",
+			"settings":
+			{
+				"buffer_size": 16098,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 283.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = ‘Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), ‘wb’).write(urllib.request.urlopen( ‘http://sublime.wbond.net/’ + pf.replace(‘ ‘,’%20′)).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Hironori/Projects/Trunk/SprBlender/scripts/modules/spb"
+	],
+	"file_history":
+	[
+		"//haselab/HomeDirs/WWW/docroots/haselab/intra/paperDB2/paperDB.sublime-project",
+		"//haselab/HomeDirs/WWW/docroots/haselab/intra/paperDB2/paperDB.sublime-workspace",
+		"/C/Users/Hironori/Projects/Trunk/SprBlender/memo/todo_raw.txt",
+		"/C/Users/Hironori/Projects/Trunk/SprBlender/memo/todo.txt",
+		"/C/Users/mitake/Projects/Trunk/Springhead2/bin/src/LeapLoader/main.cpp",
+		"/C/Users/mitake/Projects/Trunk/Springhead2/bin/src/LeapLoader/LeapLoader.vcxproj.user",
+		"/C/Users/mitake/Projects/Trunk/Springhead2/bin/src/LeapLoader/LeapLoader.vcxproj.filters",
+		"/C/Users/mitake/Projects/Trunk/Springhead2/bin/src/LeapLoader/LeapLoader.vcxproj",
+		"/C/Users/mitake/Projects/Trunk/Springhead2/bin/src/LeapLoader/LeapLoader.sln",
+		"/C/Program Files/Blender Foundation/Blender/2.70/scripts/startup/bl_ui/__init__.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/touchcontroller.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/memo/todo.txt",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/memo/structure",
+		"/C/Users/mitake/Downloads/haselab_pubkey",
+		"/C/Users/mitake/Desktop/+ IVRC/2014/web/TopPage/IVRC 2014   国際学生対抗バーチャルリアリティコンテスト.htm",
+		"/C/Users/mitake/Projects/Trunk/Springhead2/include/Python33/Add_decl.py",
+		"/C/Users/mitake/Projects/Trunk/Springhead2/include/Python32/Add_decl.py",
+		"/C/Users/mitake/Projects/Trunk/Springhead2/include/Python34/Add_decl.h",
+		"/C/Users/mitake/Projects/Trunk/Springhead2/src/Samples/EmbPython/PythonSpr/FileLoad.py",
+		"/C/Users/mitake/Projects/Trunk/Springhead2/src/Samples/EmbPython/PythonSpr/test.spr",
+		"/C/Users/mitake/Downloads/イントロダクション.tex",
+		"/C/Users/mitake/Projects/Trunk/Springhead2/src/Samples/Physics/BoxStack/test.spr",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/old/blend/koguma3_spb_newengine.blend1",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/spbapi.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/synchronizer.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/handlers_imp/scene.py",
+		"/C/Users/mitake/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/properties.py",
+		"/C/Users/mitake/Projects/Trunk/Experiments/SprBlenderExamples/Koguma3GS_impress/creature_rule_Koguma_step_bpy.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/spbapi_cpp/SprBlenderDLL12.0.sln",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ui.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/handlers_imp/creature.py",
+		"/C/Users/mitake/fromOldPC/from_Ayacure/Users/mitake/Desktop/Archive/Tools/Mezamashi/mezamashi.rb",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/handlers_imp/ikact.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/spbapi_cpp/ignore_autolocks",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/ai.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/__init__.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/handlers_imp/joint.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/animationgenerator.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/walkcontroller.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/walktrajectorycontroller.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/perception.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/handlers.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/handlers_imp/solid.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/grabcontroller.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/handler.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/handlers_imp/crbone.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/lookcontroller.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/eatcontroller.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/ai_sample.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ui_override_2_69.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/old/blend/test_compound_child.blend",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/old/blend/tutorial_joint.blend1",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/old/blend/test_onlyRender.blend",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/scriptengine.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/utils.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/handlers_imp/shape.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/footstepcontroller.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/memo/todo_raw.txt",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/memo.txt",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/memo/todo_raw",
+		"/C/Users/mitake/Desktop/SIGGRAPH2014精算/seisanhyo.txt",
+		"/C/Users/mitake/Desktop/SIGGRAPH2014精算/seisan.rb",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/docs/SPBCreatureGuide/chap_old/ui.tex",
+		"/C/Users/mitake/Projects/Trunk/Springhead2/src/EmbPython/Utility/PyPTM.i",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/web/index.html",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/web/index.php",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/install_blender271.bat",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/handlers_imp/crcontroller.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/samples/blend_claf/car_direct.blend",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/spbapi_cpp/SprBlenderDLL.cpp",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/spbapi_cpp/SprBlenderDLL.vcxproj",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/spbapi_cpp/Win32/DebugPyd/ResolveAssemblyReference.cache",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/reachcontroller.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/samples/blend/test_joint_control.blend",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/samples/blend/test_compound_child.blend",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/spbapi_cpp/SprT.exp",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/spbapi_cpp/SprEPSprBlenderDLL.h",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/abbrev.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/handlers_imp/visualizer.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/ai_utils.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/walkanimationcontroller.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/old/blend/koguma3_spb.blend",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/spbapi_cpp/x64/Release_Py34Pyd/SprBlenderDLL.vcxprojResolveAssemblyReference.cache",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/docs/SPBLecture/Tutorial2_en.avi",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/samples/blend_claf/gun_enhanced.blend",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/old/blend/koguma3_spb_creature_rule_Koguma_init.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/spbapi_cpp/SprBlenderDLL.opensdf",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/samples/blend/test_no_pliant.blend",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/samples/blend_claf/Hoekens_linkage_robot.blend",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/docs/SPBWebManual/fig.pptx",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/docs/SPBTutorial/fig/instOpenTestFile.eps",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/docs/SPBTutorial/fig/logo.svg",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/handlers_imp/limit.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/handlers_imp/ikeff.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/spbapi_cpp/RunSwig.bat",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/docs/SPBCreatureGuide/chap_old/recording.tex",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/old/pyd/Spr.map",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/samples/blend_claf/tracked_vehicle.blend",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/old/blend/test_run_scripts.blend",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/docs/SPBCreatureGuide/fig/md14IKBias.eps",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/properties_old.py",
+		"/C/Users/mitake/Projects/Trunk/Springhead2/src/Creature/CRReachController.cpp",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/spbapi_cpp/log/log.txt",
+		"/C/Users/mitake/Projects/Trunk/Experiments/SprBlenderExamples/lib/eat.py",
+		"/C/Users/mitake/Projects/Trunk/Springhead2/src/EmbPython/SetEPVersion.bat",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/spbapi_cpp/Win32/Release_Py33Pyd/CL.read.1.tlog",
+		"/C/Users/mitake/Projects/Trunk/Experiments/SprBlenderExamples/lib/controller/AnimationGenerator.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/docs/SPBCreatureGuide/chap_old/blender.tex",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/docs/SPBCreatureGuide/fig/mdBallConeLimit.eps",
+		"/C/Users/mitake/Projects/Trunk/Experiments/SprBlenderExamples/lib/controller/movingobject_temp.py",
+		"/C/Users/mitake/Projects/Trunk/Experiments/SprBlenderExamples/lib/controller/MovingObject.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/handlecontroller.py",
+		"/C/Users/mitake/Projects/Trunk/Experiments/SprBlenderExamples/KogumaBlender/koguma_leap3_delaysel_rule_Koguma_init.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/handlers_imp/pointer.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/old/pyd/Win32/Release_Py33Pyd/SprBlenderDLL.lastbuildstate",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/old/pyd/Win32/Release_Py33Pyd/CL.read.1.tlog",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/old/pyd/Win32/Release_Py33Pyd/cl.command.1.tlog",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/spbapi_cpp/bin/py32/win32/Spr.map",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/old/pyd/Win32/DebugPyd/ResolveAssemblyReference.cache",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/spbapi_cpp/bin/py32/win32/Spr.exp",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/samples/blend_claf/pygame_joypad.blend",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/old/blend/pendulum.blend",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/docs/SPBCreatureGuide/fig/mdJointTypes.eps.bak",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/lookctl.py",
+		"/C/Users/mitake/Projects/Trunk/SprBlender/scripts/modules/spb/ai/lookctl",
+		"/C/Users/mitake/Projects/Trunk/Experiments/SprBlenderExamples/SimpleBaby/knowledgesource.py",
+		"/C/Users/mitake/Projects/Trunk/Experiments/SprBlenderExamples/SimpleBaby/rule_init.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\mitake\\Projects\\Trunk\\SprBlender\\scripts\\modules\\spb",
+			"C:\\Users\\mitake\\Projects\\Trunk\\Blender\\blender-2.71\\blender-2.71",
+			"C:\\Users\\mitake\\Projects\\Trunk\\Springhead2\\src",
+			"C:\\Users\\mitake\\Projects\\Trunk\\SprBlender\\scripts\\modules\\spb",
+			"\\\\ionosphere\\mitake\\public_html\\sys\\app\\View",
+			"\\\\ionosphere\\mitake\\public_html\\sys"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SolidStateSync",
+			"LeapMotion",
+			"ReachController(",
+			"ReachController",
+			"[B",
+			"[",
+			"--",
+			"-",
+			"○",
+			"SetCallback",
+			"Callback",
+			"・",
+			"Erik",
+			"<=",
+			"tosjis.",
+			"LPF",
+			"creature_bpy_rule",
+			"minimal_step",
+			"minimal_sync",
+			"operator()",
+			"print",
+			"minimal_step",
+			"spbapi_cpp.get",
+			"scene_handler",
+			"creature_bpy_rule",
+			"/~mitake/",
+			"<script type=",
+			"TimeStep",
+			"springs",
+			"direcyion",
+			"direction x,y",
+			"direction x",
+			".spr()",
+			"Basket",
+			"selfjudge",
+			"print",
+			"=",
+			"setControlEnable",
+			"joWaist",
+			"jo_foot_joint",
+			"print",
+			"setControlEnable",
+			"self.controlEnable",
+			"Falling",
+			"Standing",
+			"Falling",
+			"Enable",
+			"GetPose.",
+			"soWaist",
+			"getFootPos",
+			"Qarterniond",
+			"Qartaniond",
+			"Qar",
+			"getFootPos()",
+			"b_enable",
+			"animectl",
+			"visualsensorL",
+			"enable_eyemovement",
+			"eyes_name",
+			"so2",
+			"bpy.data.armatures[armature.data.name]",
+			"Generate Creature",
+			"e1",
+			"e0",
+			"=",
+			"generate_creature",
+			"spped",
+			"hand_reach",
+			"look",
+			":",
+			"hands_reach_ctl",
+			"head_look",
+			"Arms_joint_name",
+			"hands_name",
+			"head_name",
+			"floor_name",
+			"head_name",
+			":",
+			"waist_name",
+			"base_joint_name",
+			"base_name",
+			"feet_name",
+			"walkanim",
+			"storable",
+			":",
+			"margin_max",
+			"ike_Head",
+			"\"ike_Head_mouthTip\"",
+			"ike_targets",
+			"getPos",
+			"curr_target",
+			"self.curr_eat_target",
+			"FinlPos",
+			"targ_pos",
+			"val.items()",
+			"(info.",
+			"get_cr_param",
+			"step",
+			"setWaistPose",
+			"soBase",
+			"left",
+			"right",
+			"self.so_base.GetPose().getOri()",
+			"=",
+			"start",
+			"left",
+			"=",
+			"left",
+			"walkanim",
+			"left",
+			"=",
+			"	'",
+			"'so_",
+			":",
+			"	    ",
+			"    ",
+			"Right",
+			"leftfoot",
+			"feet_name",
+			"leftfoot",
+			"Right",
+			"Reset()",
+			"EnablePositionControl",
+			"moutn",
+			" * 100) / 100",
+			"val",
+			"GainAdjuster(",
+			"GainAdjuster"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"self.eatctl",
+			"self.headreach",
+			"self.handreach",
+			"self.headreach",
+			"self.lookctl",
+			"self.headlook",
+			"self.walktrajctl",
+			"self.walkanimctl",
+			"self.walkanimegen",
+			"self.perception",
+			"self.visualsensorR",
+			"self.visualsensorL",
+			"self.touchsensor",
+			"self.visualizer",
+			"bpy.types.Object",
+			"get_bpy_object",
+			"object"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scripts/modules/spb/spbapi.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1718,
+								1718
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 523.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scripts/modules/spb/handlers_imp/crbone.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"origin_encoding": "UTF-8",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scripts/modules/spb/ai/ai_sample.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"origin_encoding": "ASCII",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "scripts/modules/spb/handlers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10902,
+								10902
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5574.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "scripts/modules/spb/ai/ai.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13308,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9971,
+								9971
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"origin_encoding": "UTF-8",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "scripts/modules/spb/ai/touchcontroller.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								900,
+								900
+							]
+						],
+						"settings":
+						{
+							"clone_numbers": 0,
+							"history_list_is_closing": true,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 150.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "scripts/modules/spb/ai/reachcontroller.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								502,
+								502
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "scripts/modules/spb/ai/perception.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								786,
+								786
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"origin_encoding": "ASCII",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 19.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "scripts/modules/spb/utils.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21121,
+								21121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9173.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "scripts/modules/spb/handlers_imp/scene.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3360,
+								3360
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "scripts/modules/spb/handlers_imp/solid.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6879,
+								6879
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2740.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.525668449198,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sprblender.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"solid",
+				"spb\\handlers_imp\\solid.py"
+			],
+			[
+				"scene.",
+				"spb\\handlers_imp\\scene.py"
+			],
+			[
+				"util",
+				"spb\\utils.py"
+			],
+			[
+				"todo.txt",
+				"SprBlender\\memo\\todo.txt"
+			],
+			[
+				"spbapi",
+				"spb\\spbapi.py"
+			],
+			[
+				"scene",
+				"spb\\handlers_imp\\scene.py"
+			],
+			[
+				"reachcontro",
+				"spb\\ai\\reachcontroller.py"
+			],
+			[
+				"touch",
+				"spb\\ai\\touchcontroller.py"
+			],
+			[
+				"percep",
+				"spb\\ai\\perception.py"
+			],
+			[
+				"ai.py",
+				"spb\\ai\\ai.py"
+			],
+			[
+				"ui.py",
+				"spb\\ui.py"
+			],
+			[
+				"crbone",
+				"spb\\handlers_imp\\crbone.py"
+			],
+			[
+				"proper",
+				"spb\\properties.py"
+			],
+			[
+				"ai_sample",
+				"spb\\ai\\ai_sample.py"
+			],
+			[
+				"ai_sam",
+				"spb\\ai\\ai_sample.py"
+			],
+			[
+				"handlers",
+				"spb\\handlers.py"
+			],
+			[
+				"handler",
+				"spb\\handler.py"
+			],
+			[
+				"ai_",
+				"spb\\ai\\ai_sample.py"
+			],
+			[
+				"scripteng",
+				"spb\\scriptengine.py"
+			],
+			[
+				"",
+				"spb\\ai\\ai_sample.py"
+			],
+			[
+				"ui",
+				"spb\\ui.py"
+			],
+			[
+				"__init",
+				"spb\\__init__.py"
+			],
+			[
+				"walk",
+				"spb\\ai\\walkcontroller.py"
+			],
+			[
+				"ai",
+				"spb\\ai\\ai.py"
+			],
+			[
+				"utils",
+				"spb\\utils.py"
+			],
+			[
+				"index.html",
+				"SprBlender\\web\\index.html"
+			],
+			[
+				"percepti",
+				"spb\\ai\\perception.py"
+			],
+			[
+				"grabcon",
+				"spb\\ai\\grabcontroller.py"
+			],
+			[
+				"__init_",
+				"spb\\__init__.py"
+			],
+			[
+				"solid.",
+				"spb\\handlers_imp\\solid.py"
+			],
+			[
+				"crcontro",
+				"SprBlender\\scripts\\modules\\spb\\handlers_imp\\crcontroller.py"
+			],
+			[
+				"ai_samp",
+				"spb\\ai\\ai_sample.py"
+			],
+			[
+				"__init__",
+				"spb\\__init__.py"
+			],
+			[
+				"lookcont",
+				"spb\\ai\\lookcontroller.py"
+			],
+			[
+				"eatcontr",
+				"spb\\ai\\eatcontroller.py"
+			],
+			[
+				"traje",
+				"spb\\ai\\walktrajectorycontroller.py"
+			],
+			[
+				"animation",
+				"spb\\ai\\animationgenerator.py"
+			],
+			[
+				"foot",
+				"spb\\ai\\footstepcontroller.py"
+			],
+			[
+				"walkcontro",
+				"spb\\ai\\walkcontroller.py"
+			],
+			[
+				"walktraj",
+				"spb\\ai\\walktrajectorycontroller.py"
+			],
+			[
+				"footstep",
+				"spb\\ai\\footstepcontroller.py"
+			],
+			[
+				"shape",
+				"spb\\handlers_imp\\shape.py"
+			],
+			[
+				"percept",
+				"spb\\ai\\perception.py"
+			],
+			[
+				"lookc",
+				"spb\\ai\\lookcontroller.py"
+			],
+			[
+				"script",
+				"SprBlender\\scripts\\modules\\spb\\scriptengine.py"
+			],
+			[
+				"joint.py",
+				"spb\\handlers_imp\\joint.py"
+			],
+			[
+				"eatcont",
+				"spb\\ai\\eatcontroller.py"
+			],
+			[
+				"animationge",
+				"spb\\ai\\animationgenerator.py"
+			],
+			[
+				"ai_sampel",
+				"spb\\ai\\ai_sample.py"
+			],
+			[
+				"walkcon",
+				"spb\\ai\\walkcontroller.py"
+			],
+			[
+				"handler.",
+				"spb\\handler.py"
+			],
+			[
+				"eat",
+				"spb\\ai\\eatcontroller.py"
+			],
+			[
+				"eatcon",
+				"spb\\ai\\eatcontroller.py"
+			],
+			[
+				"visualizer",
+				"spb\\handlers_imp\\visualizer.py"
+			],
+			[
+				"synchroni",
+				"spb\\synchronizer.py"
+			],
+			[
+				"abbrev",
+				"spb\\abbrev.py"
+			],
+			[
+				"walkanim",
+				"spb\\ai\\walkanimationcontroller.py"
+			],
+			[
+				"walkcont",
+				"spb\\ai\\walkcontroller.py"
+			],
+			[
+				"visua",
+				"spb\\handlers_imp\\visualizer.py"
+			],
+			[
+				"aiutil",
+				"spb\\ai\\ai_utils.py"
+			],
+			[
+				"touchcont",
+				"spb\\ai\\touchcontroller.py"
+			],
+			[
+				"visuali",
+				"spb\\handlers_imp\\visualizer.py"
+			],
+			[
+				"animat",
+				"spb\\ai\\animationgenerator.py"
+			],
+			[
+				"look",
+				"spb\\ai\\lookcontroller.py"
+			],
+			[
+				"perce",
+				"spb\\ai\\perception.py"
+			],
+			[
+				"walkaani",
+				"spb\\ai\\walkanimationcontroller.py"
+			],
+			[
+				"properties",
+				"spb\\properties.py"
+			],
+			[
+				"sync",
+				"spb\\synchronizer.py"
+			],
+			[
+				"joint.",
+				"spb\\handlers_imp\\joint.py"
+			],
+			[
+				"handlers.py",
+				"spb\\handlers.py"
+			],
+			[
+				"ikeff",
+				"spb\\handlers_imp\\ikeff.py"
+			],
+			[
+				"ik",
+				"spb\\handlers_imp\\ikact.py"
+			],
+			[
+				"scriptengi",
+				"spb\\scriptengine.py"
+			],
+			[
+				"traj",
+				"spb\\ai\\walktrajectorycontroller.py"
+			],
+			[
+				"walkanimcon",
+				"spb\\ai\\walkanimationcontroller.py"
+			],
+			[
+				"lookcontro",
+				"spb\\ai\\lookcontroller.py"
+			],
+			[
+				"controller",
+				"spb\\handlers_imp\\crcontroller.py"
+			],
+			[
+				"anime",
+				"spb\\ai\\animationgenerator.py"
+			],
+			[
+				"creature",
+				"spb\\handlers_imp\\creature.py"
+			],
+			[
+				"viua",
+				"spb\\handlers_imp\\visualizer.py"
+			],
+			[
+				"crcont",
+				"spb\\handlers_imp\\crcontroller.py"
+			],
+			[
+				"walkani",
+				"spb\\ai\\walkanimationcontroller.py"
+			],
+			[
+				"walka",
+				"spb\\ai\\walkanimationcontroller.py"
+			],
+			[
+				"syncrho",
+				"spb\\synchronizer.py"
+			],
+			[
+				"ike",
+				"spb\\handlers_imp\\ikeff.py"
+			],
+			[
+				"visualize",
+				"spb\\handlers_imp\\visualizer.py"
+			],
+			[
+				"__ini",
+				"spb\\__init__.py"
+			],
+			[
+				"joint",
+				"spb\\handlers_imp\\joint.py"
+			],
+			[
+				"crea",
+				"spb\\handlers_imp\\creature.py"
+			],
+			[
+				"visual",
+				"spb\\handlers_imp\\visualizer.py"
+			],
+			[
+				"limit",
+				"spb\\handlers_imp\\limit.py"
+			],
+			[
+				"shape.py",
+				"spb\\handlers_imp\\shape.py"
+			],
+			[
+				"ikact",
+				"spb\\handlers_imp\\ikact.py"
+			],
+			[
+				"pointer",
+				"spb\\handlers_imp\\pointer.py"
+			],
+			[
+				"handler.py",
+				"spb\\handler.py"
+			],
+			[
+				"abbre",
+				"spb\\abbrev.py"
+			],
+			[
+				"blackboar",
+				"spb\\ai\\blackboard.py"
+			],
+			[
+				"solid.py",
+				"spb\\handlers_imp\\solid.py"
+			],
+			[
+				"ui.",
+				"spb\\ui.py"
+			],
+			[
+				"ab",
+				"spb\\abbrev.py"
+			],
+			[
+				"bpywra",
+				"spb\\bpywrapper.py"
+			],
+			[
+				"prop",
+				"spb\\properties.py"
+			],
+			[
+				"synch",
+				"spb\\synchronizer.py"
+			],
+			[
+				"visu",
+				"spb\\handlers_imp\\visualizer.py"
+			],
+			[
+				"propo",
+				"spb\\properties_old.py"
+			],
+			[
+				"creat",
+				"spb\\handlers_imp\\creature.py"
+			],
+			[
+				"init",
+				"spb\\__init__.py"
+			],
+			[
+				"memo",
+				"spb\\memo.txt"
+			],
+			[
+				"scrip",
+				"spb\\scriptengine.py"
+			],
+			[
+				"projectscon",
+				"Controller\\ProjectsController.php"
+			],
+			[
+				"appcon",
+				"Controller\\AppController.php"
+			],
+			[
+				"defa",
+				"View\\Layouts\\default.ctp"
+			],
+			[
+				"usersindex",
+				"View\\Users\\index.ctp"
+			],
+			[
+				"users",
+				"Controller\\UsersController.php"
+			],
+			[
+				"index",
+				"View\\Users\\index.ctp"
+			],
+			[
+				"sc",
+				"sql\\schema.sql"
+			],
+			[
+				"schema",
+				"sql\\schema.sql"
+			],
+			[
+				"login",
+				"View\\Users\\login.ctp"
+			],
+			[
+				"boot",
+				"Config\\bootstrap.php"
+			],
+			[
+				"home",
+				"View\\Users\\home.ctp"
+			],
+			[
+				"projectscont",
+				"Controller\\ProjectsController.php"
+			],
+			[
+				"reviewscon",
+				"Controller\\ReviewsController.php"
+			],
+			[
+				"bshel",
+				"View\\Helper\\BsHelper.php"
+			],
+			[
+				"list",
+				"View\\Elements\\Reviews\\list.ctp"
+			],
+			[
+				"reviewindex",
+				"View\\Reviews\\index.ctp"
+			],
+			[
+				"conflict",
+				"View\\Reviews\\conflict.ctp"
+			],
+			[
+				"app",
+				"Controller\\AppController.php"
+			],
+			[
+				"sche",
+				"sql\\schema.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"\\\\ionosphere\\mitake\\public_html\\sys\\ivrc_sys.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 148.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

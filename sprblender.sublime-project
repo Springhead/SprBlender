@@ -1,0 +1,59 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		},
+		{
+			"file_include_patterns":
+			[
+				"*.py", "*.txt"
+			],
+			"folder_exclude_patterns":
+			[
+				"__pycache__"
+			],
+			"follow_symlinks": true,
+			"path": "./scripts/modules/spb"
+		},
+		{
+			"file_include_patterns":
+			[
+				"*.cpp", "*.h", "*.bat", "*.txt"
+			],
+			"file_exclude_patterns":
+			[
+				"EPSpr*", "SprEP*"
+			],
+			"folder_exclude_patterns":
+			[
+				"*"
+			],
+			"follow_symlinks": true,
+			"path": "./spbapi_cpp"
+		},
+		{
+			"file_include_patterns":
+			[
+				"*.txt"
+			],
+			"follow_symlinks": true,
+			"path": "./spbapi_cpp/log"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				"*.aux", "*.dvi", "*.idx", "*.ilg", "*.log", "*.out",
+				"*.pdf", "*.toc", "timestamp.tex", "*.prn", "*.pptx",
+				"*.svg", "*.emf", "*.png", "*~"
+			],
+			"folder_exclude_patterns":
+			[
+				"blend"
+			],
+			"follow_symlinks": true,
+			"path": "./docs/SPBCreatureGuide"
+		},
+	]
+}
