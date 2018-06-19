@@ -98,7 +98,7 @@ cd "%INSTALLER_DIR%"
 
 echo.
 
-set DEPEND_DIR="..\Springhead\libs\bin\win64"
+set DEPEND_DIR="..\Springhead\dependency\bin\win64"
 if not exist "%DEPEND_DIR%" (
   set DEPEND_DIR=".\depends"
   if not exist "%DEPEND_DIR%" (
